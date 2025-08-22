@@ -106,7 +106,6 @@ graph LR
 
 - **🏢 Role:** CTO at Team.me (Frankfurt, Germany)
 - **🔨 Building:** Next-generation developer tools and scalable platforms
-- **🌱 Learning:** Rust for system-level performance, AI integration in dev tools
 - **💡 Focus:** Bridging technical excellence with measurable business outcomes
 
 <br>
