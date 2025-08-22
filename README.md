@@ -8,16 +8,9 @@
 
 ## About
 
-**Frankfurt-based CTO** bridging technical excellence with business strategy. Since 2019, progressed from delivering **$10M+ projects** to securing **Fortune 500 clients** while shipping production code daily.
+I'm Dmytro, a **Frankfurt-based CTO & Architect** who bridges the gap between technical excellence and business strategy. Since 2019, I've progressed from delivering **$10M+ projects** to leading founding teams and securing **Fortune 500 clients**, all while maintaining hands-on development.
 
-Currently building [Team.me](https://teamme.io/) - enterprise video recruiting platform serving **HiBob, Payoneer, Gong, Mend, Komodor** and others.
-
-<div align="center">
-
-| **Scale** | **Leadership** | **Open Source** |
-| :---: | :---: | :---: |
-| Fortune 500 clients | 15+ developers mentored | [ecolog.nvim](https://github.com/ph1losof/ecolog.nvim): 139+ ⭐ |
-| Millions of users served | 4 teams led | 1K+ developers using my tools |
+**What makes me different:** While most CTOs only strategize, I ship production code daily. While most developers just build features, I build companies. From architecting Bubble's microservices (millions of users) to securing enterprise clients like **HiBob, Payoneer, Gong, Mend** at Team.me.
 
 </div>
 
