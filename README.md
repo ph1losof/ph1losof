@@ -21,12 +21,19 @@ Currently building [Team.me](https://teamme.io/) - enterprise video recruiting p
 
 </div>
 
-## Tech Stack
 
-**Languages:** `TypeScript` `JavaScript` `Rust` `Python` `Lua`  
-**Frontend:** `React` `Next.js` `Remix` `Vue` `Tailwind CSS`  
-**Backend:** `Node.js` `NestJS` `GraphQL` `Microservices`  
-**Infrastructure:** `Docker` `Kubernetes` `AWS` `Redis` `PostgreSQL`
+## 🛠 Technical Stack
+
+**Languages:** `TypeScript` `JavaScript` `Rust` `Python` `Lua`
+
+**Frontend:** `React` `Remix` `Tailwind CSS`
+
+**Backend:** `Next.js` `Node.js` `NestJS` `Express` `GraphQL` `REST` `GRPC`
+
+**Infrastructure:** `Docker` `Kubernetes` `AWS` `Azure` `Redis` `RabbitMQ` `PostgreSQL` `MySQL` `SQLite`
+
+**Architecture:** `Event-driven` `SOLID` `Design Patterns` `Scalable Systems` `Microservices`
+
 
 ## Connect
 
