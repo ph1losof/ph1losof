@@ -1,211 +1,140 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Building bridges between business value and technical excellence
+# Dmytro Pletenskyi | CTO & Architect
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2DBA4E&center=true&vCenter=true&width=700&lines=Frankfurt-based+CTO+%26+Architect+shipping+code+daily;Building+scalable+microservices+since+2019;Fortune+500+clients:+HiBob,+Payoneer,+Gong;Open+source:+139%2B+stars,+1K%2B+developers)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DBA4E&center=true&vCenter=true&width=700&lines=Frankfurt-based+CTO+who+ships+production+code+daily;Fortune+500+clients:+HiBob,+Payoneer,+Gong;139%2B+stars,+1K%2B+developers+using+my+tools)](https://git.io/typing-svg)
 
 </div>
 
-## 🎯 CTO Who Codes Daily
+<br>
+
+## About Me
 
 I'm Dmytro, a **Frankfurt-based CTO & Architect** who bridges the gap between technical excellence and business strategy. Since 2019, I've progressed from delivering **$10M+ projects** to leading founding teams and securing **Fortune 500 clients**, all while maintaining hands-on development.
 
-**What makes me different:** While most CTOs only strategize, I ship production code daily. While most developers just build features, I build companies. From architecting Bubble's microservices (millions of users) to securing enterprise clients like **HiBob, Payoneer, and Gong** at Team.me.
+**What makes me different:** While most CTOs only strategize, I ship production code daily. While most developers just build features, I build companies. From architecting Bubble's microservices (millions of users) to securing enterprise clients like **HiBob, Payoneer, Gong, Mend** at Team.me.
+
+<br>
+
+## 📊 Career Impact
 
 <div align="center">
 
-### 📊 Impact & Scale
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🏢 Business Results**  
-• Fortune 500 clients secured  
-• 90% faster integrations (3 weeks → 3 days)  
-• $10M+ project budgets delivered  
-• 50+ enterprise implementations  
-
-</td>
-<td align="center" width="50%">
-
-**⚡ Technical Leadership**  
-• 139+ GitHub stars on dev tools  
-• 1K+ developers using my solutions  
-• Millions of users served at scale  
-• 12+ languages supported in tooling  
-
-</td>
-</tr>
-</table>
+| **Scale Achieved** | **Teams Built** | **Value Delivered** |
+| :---: | :---: | :---: |
+| **Fortune 500** clients secured | **15+** developers mentored | **$10M+** in project value |
+| **Millions** of users served | **4** teams led successfully | **From 0 to enterprise** scale |
+| **HiBob, Payoneer, Gong** + 5 more | **CTO** at founding stage | **3 weeks → 3 days** at ListAcross |
 
 </div>
 
-## 💼 Professional Experience
+<br>
 
-<table>
-<tr>
-<td width="25%">
-<div align="center">
+## 💼 Professional Journey
 
-**🚀 Team.me**  
-*CTO & Co-founder*  
-2022 - Present  
+```mermaid
+graph LR
+    A[2019-2020<br/>Itera Research<br/>$10M+ projects] --> B[2020-2021<br/>ListAcross<br/>90% faster integration]
+    B --> C[2021-2022<br/>Bubble.io<br/>World's #1 no-code]
+    C --> D[2022-Present<br/>Team.me CTO<br/>Fortune 500 clients]
+```
 
-Fortune 500 clients  
-Video recruiting platform  
-SOLID architecture  
+<details>
+<summary><b>View Detailed Experience</b></summary>
 
-</div>
-</td>
-<td width="25%">
-<div align="center">
+### **Team.me** | CTO & Co-founder (2022 - Present)
+- Architected video recruiting platform from zero to enterprise scale
+- Secured Fortune 500 clients including HiBob, Payoneer, Gong, Komodor
+- Implemented SOLID architecture enabling rapid feature development
+- Leading technical strategy while maintaining hands-on development
 
-**🌐 Bubble**  
-*Team Lead*  
-2021 - 2022  
+### **Bubble** | Team Lead Developer (2021 - 2022)  
+- Led development for world's largest no-code platform (millions of users)
+- Architected microservices handling massive scale
+- Mentored team of 6 developers
 
-World's #1 no-code platform  
-Microservices architecture  
-Led 6 developers  
+### **ListAcross** | Senior Full-Stack Developer (2020 - 2021)
+- Reduced marketplace integration time by 90% (3 weeks → 3 days)
+- Implemented adapter pattern architecture for scalability
+- Led cross-functional development team
 
-</div>
-</td>
-<td width="25%">
-<div align="center">
+### **Itera Research** | Full-Stack Developer (2019 - 2020)
+- Delivered 5 projects worth $10M+ total budget
+- Maintained 100% on-time delivery across concurrent projects
 
-**🔄 ListAcross**  
-*Senior Full-Stack*  
-2020 - 2021  
+</details>
 
-90% faster integration  
-Marketplace automation  
-Adapter patterns  
+<br>
 
-</div>
-</td>
-<td width="25%">
-<div align="center">
+## 🚀 Featured Projects
 
-**💡 Itera Research**  
-*Full-Stack Developer*  
-2019 - 2020  
+### [Team.me](https://teamme.io/) - Enterprise Video Recruiting Platform
+*Current Role: CTO & Co-founder (2022 - Present)*
 
-$10M+ projects  
-100% on-time delivery  
-5 concurrent projects  
+**Problem:** Traditional recruiting is slow and impersonal  
+**Solution:** Scalable video platform with enterprise-grade features  
+**Impact:** Fortune 500 adoption including **HiBob, Payoneer, Gong, Mend, Komodor, Aiola, Skai**  
+**Tech Stack:** `React` `Next.js` `NestJS` `Microservices` `WebRTC` `SOLID Architecture`
 
-</div>
-</td>
-</tr>
-</table>
+---
 
-## 🛠️ Technical Expertise
+### [ecolog.nvim](https://github.com/ph1losof/ecolog.nvim) - Open Source Developer Tool
+[![Stars](https://img.shields.io/github/stars/ph1losof/ecolog.nvim?style=social)](https://github.com/ph1losof/ecolog.nvim)
 
-<div align="center">
+**Problem:** Developers waste hours managing environment variables across projects  
+**Solution:** All-in-one Neovim toolkit with smart autocompletion for 12+ languages  
+**Impact:** **139+ stars**, **1K+ active users**, integrated with Hashicorp Vault & AWS  
+**Tech Stack:** `Lua` `Neovim API` `Security-first design`  
 
-**Languages:** TypeScript • JavaScript • Rust • Python • Lua • Go  
-**Frontend:** React • Next.js • Vue.js • Tailwind CSS  
-**Backend:** Node.js • NestJS • GraphQL • Microservices  
-**Infrastructure:** Docker • Kubernetes • AWS • Redis • PostgreSQL  
-**Architecture:** Event-driven • SOLID • Design Patterns • Scalable Systems  
+<br>
 
-</div>
+## 🛠 Technical Stack
 
-## 🌟 Key Projects
+**Languages:** `TypeScript` `JavaScript` `Rust` `Python` `Lua`
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
+**Frontend:** `React` `Remix` `Tailwind CSS`
 
-### [ecolog.nvim](https://github.com/ph1losof/ecolog.nvim)
-**Neovim Environment Manager**
+**Backend:** `Next.js` `Node.js` `NestJS` `Express` `GraphQL` `REST` `GRPC`
 
-🔧 **Problem Solved:** Developers waste hours managing environment variables  
-✨ **Solution:** All-in-one toolkit with smart autocompletion for 12+ languages  
-📊 **Impact:** 139+ stars, 1K+ active users, integrated with Hashicorp Vault & AWS  
+**Infrastructure:** `Docker` `Kubernetes` `AWS` `Azure` `Redis` `RabbitMQ` `PostgreSQL` `MySQL` `SQLite`
 
-*Technologies: Lua, Neovim API, Security-first design*
+**Architecture:** `Event-driven` `SOLID` `Design Patterns` `Scalable Systems` `Microservices`
 
-</td>
-<td width="50%">
+<br>
 
-### Enterprise Platforms
-**Team.me Video Recruiting**
+## 🎯 Currently
 
-🔧 **Problem Solved:** Traditional recruiting is slow and impersonal  
-✨ **Solution:** Scalable video platform with enterprise features  
-📊 **Impact:** HiBob, Payoneer, Gong, Tipalti, Komodor as clients  
+- **🏢 Role:** CTO at Team.me (Frankfurt, Germany)
+- **🔨 Building:** Next-generation developer tools and scalable platforms
+- **🌱 Learning:** Rust for system-level performance, AI integration in dev tools
+- **💡 Focus:** Bridging technical excellence with measurable business outcomes
 
-*Technologies: React, NestJS, Microservices, WebRTC*
+<br>
 
-</td>
-</tr>
-</table>
-</div>
-
-## 🎯 What I Bring to Your Organization
-
-<table>
-<tr>
-<td width="33%">
-
-### Technical Depth
-✅ Daily hands-on coding  
-✅ Architecture decisions  
-✅ Performance optimization  
-✅ Code reviews & mentoring  
-
-</td>
-<td width="33%">
-
-### Business Acumen
-✅ P&L understanding  
-✅ Client acquisition  
-✅ Product strategy  
-✅ Team scaling  
-
-</td>
-<td width="33%">
-
-### Leadership Style
-✅ Lead by example  
-✅ Data-driven decisions  
-✅ Open source contributor  
-✅ Continuous learning  
-
-</td>
-</tr>
-</table>
-
-## 📍 Currently
-
-- 🏢 **Role:** CTO at Team.me (Frankfurt, Germany)
-- 🔨 **Building:** Next-generation developer tools and scalable platforms
-- 🎯 **Focus:** Bridging technical excellence with business outcomes
-- 🌱 **Exploring:** Rust for system-level performance, AI in developer tools
-
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-I'm always interested in discussing **technical leadership**, **architecture challenges**, and **innovative projects**.
+I'm interested in **technical leadership**, **architecture challenges**, and **innovative projects**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-pletenskyi/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriy.pletenskoy@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dmytro.tech-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dmytro.tech/)
+<a href="https://www.linkedin.com/in/dmytro-pletenskyi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:dmitriy.pletenskoy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://dmytro.tech/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 **Available for:** Architecture consultations • Technical advisory • CTO mentorship
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
-
-*"Most developers build features. Most CTOs just strategize. I do both."*
-
+  <i>"Most developers build features. Most CTOs just strategize. I do both."</i>
 </div>
-
-<!-- SEO: Frankfurt Germany CTO Architect Microservices TypeScript React Rust Neovim Full-Stack Enterprise -->
