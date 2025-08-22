@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DBA4E&center=true&vCenter=true&width=700&lines=Frankfurt-based+CTO+who+ships+code+daily;Fortune+500+clients:+HiBob,+Payoneer,+Gong;From+0+to+enterprise+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2DBA4E&center=true&vCenter=true&width=700&lines=Frankfurt-based+CTO+who+ships+production+code+daily;Fortune+500+clients:+HiBob,+Payoneer,+Gong;From+0+to+enterprise+scale)](https://git.io/typing-svg)
 
 </div>
 
