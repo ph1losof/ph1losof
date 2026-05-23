@@ -1,4 +1,4 @@
-# Dmytro Pletenskyi | CTO & Architect
+# Dmytro Pletenskyi | Hands-on Tech Lead & Architect
 
 <div align="center">
 
@@ -8,25 +8,11 @@
 
 ## About
 
-I'm Dmytro, a **Frankfurt-based CTO & Architect** who bridges the gap between technical excellence and business strategy. Since 2019, I've progressed from delivering **$10M+ projects** to leading founding teams and securing **Fortune 500 clients**, all while maintaining hands-on development.
+I'm Dmytro, a **Frankfurt-based Tech Lead & Architect** who bridges the gap between technical excellence and business strategy. Since 2019, I've progressed from delivering **$10M+ projects** to leading founding teams and securing **Fortune 500 clients**, all while maintaining hands-on development.
 
-**What makes me different:** While most CTOs only strategize, I ship production code daily. While most developers just build features, I build companies. From architecting Bubble's microservices (millions of users) to securing enterprise clients like **HiBob, Payoneer, Gong, Mend** at Team.me.
+**What makes me different:** I believe that each line of code encodes business decision. While most developers just build features, I build companies. From architecting Bubble's microservices (millions of users) to securing enterprise clients like **HiBob, Payoneer, Gong, Mend** at Team.me.
 
 </div>
-
-
-## 🛠 Technical Stack
-
-**Languages:** `TypeScript` `JavaScript` `Rust` `Python` `Lua`
-
-**Frontend:** `React` `Remix` `Tailwind CSS`
-
-**Backend:** `Next.js` `Node.js` `NestJS` `Express` `GraphQL` `REST` `GRPC`
-
-**Infrastructure:** `Docker` `Kubernetes` `AWS` `Azure` `Redis` `RabbitMQ` `PostgreSQL` `MySQL` `SQLite`
-
-**Architecture:** `Event-driven` `SOLID` `Design Patterns` `Scalable Systems` `Microservices`
-
 
 ## Connect
 
