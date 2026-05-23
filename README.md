@@ -33,5 +33,5 @@ I'm Dmytro, a **Frankfurt-based Tech Lead & Architect** who bridges the gap betw
 ---
 
 <div align="center">
-  <i>"Most developers build features. Most CTOs just strategize. I do both."</i>
+  <i>"Every line of code encodes a business decision - whether made consciously or not."</i>
 </div>
